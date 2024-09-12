@@ -57,4 +57,6 @@
 
 Jika Anda memiliki pertanyaan atau membutuhkan dukungan lebih lanjut, silakan hubungi kami di [satoribyte@gmail.com](mailto:satoribyte@gmail.com).
 
+## Dukung Saya di Trakteer
 
+[![Trakteer Button](https://cdn-icons-png.flaticon.com/512/6098/6098529.png)](https://trakteer.id/deni_gentar_candana/tip?open=true)
